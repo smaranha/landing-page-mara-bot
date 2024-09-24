@@ -3,7 +3,7 @@
 ![mara-bot](https://github.com/user-attachments/assets/954a23b1-ca1d-45dd-aa0e-d6fde79bad65)
 
 <h2>Sobre</h2>
-<p>Projeto realizado com vídeo tutorial da Rafaela Ballerine, no qual foi criada uma landing page para um bot de relacionamentos.</p>
+<p>Projeto realizado com vídeo tutorial da Rafaella Ballerine, no qual foi criada uma landing page para um bot de relacionamentos.</p>
 
 ## Tecnologias
 <div>
