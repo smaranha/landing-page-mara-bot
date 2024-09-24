@@ -1,4 +1,4 @@
-<h1>About me</h1>
+<h1>Mara Bot</h1>
 
 <h2>Sobre</h2>
 <p>Projeto realizado com vídeo tutorial da Rafaela Ballerine, no qual foi criada uma landing page para um bot de relacionamentos.</p>
