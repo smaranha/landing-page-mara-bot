@@ -1,0 +1,137 @@
+@import url("https://use.typekit.net/toa2yxq.css");
+@import url("https://use.typekit.net/toa2yxq.css");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+    background: linear-gradient(68.15deg, #624465 16.62%, #BF9FBE 85.61%);
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+.cabecalho-logo {
+    height: 48px;
+}
+
+.cabecalho-menu {
+    display: flex;
+    gap: 115px;
+}
+
+.cabecalho-menu-item {
+    font-family: "darkmode-on", sans-serif;
+    color: #F0D8D7;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.conteudo {
+    margin-bottom: 48px;
+    border-top: 0.1px solid #F0D8D7;
+}
+
+.conteudo-inicio {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.conteudo-inicio-texto {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.conteudo-inicio-texto-titulo {
+    font-family: "gilbert", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 64px;
+    color: #F0D8D7;
+}
+
+.conteudo-inicio-texto-subtitulo {
+    font-family: "darkmode-on", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: #F0D8D7;
+}
+
+.conteudo-inicio-texto-botao {
+    font-family: "darkmode-on", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    color: #200722;
+    background-color: #F0D8D7;
+    width: 185px;
+    height: 55px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+.conteudo-inicio-texto-botao:hover {
+    background-color: #BF9FBE;
+    color: #F0D8D7;
+}
+
+.conteudo-inicio-imagem {
+    height: 430px;
+    padding: 20px;
+}
+
+.conteudo-inicio-imagem-2 {
+    height: 230px;
+}
+
+.conteudo-final {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    margin-top: 48px;
+}
+
+.conteudo-final-titulo {
+    border-top: 0.4px solid #F0D8D7;
+    padding-top: 48px;
+    font-family: "gilbert", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+    color:#200722;
+    margin-bottom: 16px;
+}
+
+.conteudo-final-paragrafo {
+    font-family: "darkmode-on", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    color: #F0D8D7;
+}
+
+.rodape {
+    padding: 32px;
+    border-top: 0.1px solid #F0D8D7;;
+}
+
+.rodape-imagem {
+    height: 48px;
+    display: block;
+    margin: 0 auto;
+}
